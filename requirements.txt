@@ -1,0 +1,7 @@
+requests
+rsa
+keyboard
+tqdm
+cryptography
+pycryptodome
+colorama
